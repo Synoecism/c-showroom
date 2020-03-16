@@ -1,0 +1,25 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+### Above combination will ignore all files without extension ###
+
+#unignore makefile
+!Makefile
+
+# mac files
+*.DS_Store
+
+# vs code files
+.vscode
+
+# outfiles
+*.out
+
+# exe files
+*.exe

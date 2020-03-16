@@ -1,0 +1,15 @@
+# set language of ci
+language: c
+# set compiler of ci
+compiler: gcc
+# set os of ci
+os: 
+  - osx
+
+# run the script
+script:
+  # go to repo source directory
+  - cd ${TRAVIS_BUILD_DIR} 
+  # call makefile function to compile all c files 
+  # compile_all = function in Makefile
+  - make -f Makefile compile_all
