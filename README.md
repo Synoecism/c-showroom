@@ -14,8 +14,8 @@ prequestist
 
 guide starts here
 
-8- vs code -  select default shell git bash
-9- add "code-runner.executorMap": {
+8 - vs code -  select default shell git bash
+9 - add "code-runner.executorMap": {
         "c": "gcc $fileName -o $fileNameWithoutExt && ./$fileNameWithoutExt"
 } to code runner settings
 10 - create github with readme
