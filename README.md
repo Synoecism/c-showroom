@@ -1,33 +1,31 @@
 # c-showroom
 
-for medium article:
-
-prequestist
-
-1 - install vs code
-4 - install c/c++ extension
-5 - install code runner
-5 - prettier extension
-6 - install mingw
-7 - open environment variables - add mngw bin to path
-13 - skapa travis konto
-
-guide starts here
-
-8 - vs code -  select default shell git bash
-9 - add "code-runner.executorMap": {
-        "c": "gcc $fileName -o $fileNameWithoutExt && ./$fileNameWithoutExt"
-} to code runner settings
-10 - create github with readme
-11 - clone github repo    
-12-  skapa gitignore
-13 - add repo to travis
-13 -  add makefile
-14 - add travis yml
-15 - git push
------
+## setup for article
 - introduction (why, and what we will do)
-- preeq
+- prerequisites
 - get started
 - makefile
 - finally - future
+
+## prerequisites windows / mac
+- install vs code
+- install git
+- github account
+- install c/c++ extension
+- install code runner
+- prettier extension
+- install mingw
+- open environment variables -add mgw bin to path
+- skapa travis konto
+
+## guide
+- vs code select shell bit bash
+- add "code-runner.executor map "c": "gcc $fileName -o $fileNameWithoutExt && ./$fileNameWithoutExt" to code runner settings
+- create github with readme
+- clone github repo
+- create gitignore
+- add repo to travis
+- add makefile
+- add travis yml
+- git push
+
