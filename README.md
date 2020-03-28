@@ -1,5 +1,8 @@
 # c-showroom
 
+## purpose of repo
+- This is a repo that is used in a Medium article(link) for setup of a project structure used in a simple CI project for c-files. 
+
 ## prerequisites windows
 - [VS Code](https://code.visualstudio.com/download)
     - VS code is a popular lightweight code editor
@@ -25,6 +28,8 @@
     - C/C++ extension makes it possible for your code editor to recognize c and c++ files
 - [Travis CI](https://travis-ci.org/)
     - Travis is a popular continous integration service. You'll need an account on Travis to complete the article. 
+    
+---- the following below should be in medium article and later removed here ---- 
 
 ## setup
 1. [Fork our template repo](https://github.com/KarlWestgardh/c-showroom/fork)
