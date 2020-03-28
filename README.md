@@ -1,17 +1,5 @@
 # c-showroom
 
-## setup for article
-- introduction (why, and what we will do)
-    - dog picture
-- prerequisites
-    - There are certain things that we need to 
-    - assumes that you have knowledge working with a code editor, version control (git) and knows what a compiler, github and travis and continous integration is. 
-- Setup
-- Solution
-- finally - future
-    - If you add files to the repo, they will know also be compiled automattically in the future. And thats great.
-    - Dog picture happy
-
 ## prerequisites windows
 - [VS Code](https://code.visualstudio.com/download)
     - VS code is a popular lightweight code editor
