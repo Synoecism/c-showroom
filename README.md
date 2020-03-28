@@ -22,10 +22,15 @@
 
 ## prerequisites windows / mac
 - [VS Code](https://code.visualstudio.com/download)
-- [Git Version Control](https://git-scm.com/)
-- github account
-- install c/c++ extension
-- skapa travis konto
+    - VS code is a popular lightweight code editor
+- [Git](https://git-scm.com/)
+    - Git is a popular version control system
+- [Github](https://github.com/)
+    - Github is a popular version control host
+- [VS code c/c++ extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+    - C/C++ extension makes it possible for your code editor to recognize c and c++ files
+- [Travis CI](https://travis-ci.org/)
+    - Travis is a popular continous integration service.
 
 ## guide
 ---- turn this into default repo ----
