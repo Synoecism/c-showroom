@@ -21,8 +21,8 @@
 - skapa travis konto
 
 ## prerequisites windows / mac
-- [install vs code](https://code.visualstudio.com/download)
-- install git
+- [VS Code](https://code.visualstudio.com/download)
+- [Git Version Control](https://git-scm.com/)
 - github account
 - install c/c++ extension
 - skapa travis konto
