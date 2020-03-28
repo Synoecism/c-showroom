@@ -38,13 +38,15 @@
 - [Travis CI](https://travis-ci.org/)
     - Travis is a popular continous integration service. You'll need an account on Travis to complete the article. 
 
-## guide
-1. go to github account
+## setup
+1. [Fork our template repo](https://github.com/KarlWestgardh/c-showroom/fork)
 2. clone the repo
 3. make sure that you can run the hello world
 4. please test the hello world fail
 5. as you can see, there is a compilation error in the code.
-6. activate repo on travis
+
+## solution
+6. activate repo on travis and synk github
 7. create makefile with only helloworld2
 8. create yaml file
 9. push to repo
@@ -55,5 +57,8 @@
 14. helloworld is not compiled and tested though
 15. add compilation of all files in makefile 
 16. push again
+
+## future
 17. if we now add more c files to this directory or any sub folder, they will be 
+18. please let us know if something doesnt work
 
