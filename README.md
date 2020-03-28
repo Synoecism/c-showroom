@@ -1,7 +1,7 @@
 # c-showroom
 
 ## purpose of repo
-- This is a repo that is used in a Medium article(link) for setup of a project structure used in a simple CI project for c-files. 
+- This is a repo that is used in a Medium article(link) for a simple setup of a c project used for demonstration of equally simple ci of c files.
 
 ## prerequisites windows
 - [VS Code](https://code.visualstudio.com/download)
