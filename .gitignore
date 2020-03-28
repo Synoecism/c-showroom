@@ -1,15 +1,9 @@
-# Ignore all
+# Above combination will ignore all files without extensions
 *
-
-# Unignore all with extensions
 !*.*
-
-# Unignore all dirs
 !*/
 
-### Above combination will ignore all files without extension ###
-
-#unignore makefile
+# unignore makefile
 !Makefile
 
 # mac files

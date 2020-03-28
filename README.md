@@ -39,17 +39,21 @@
     - Travis is a popular continous integration service. You'll need an account on Travis to complete the article. 
 
 ## guide
----- turn this into default repo ----
-- create github with readme
-- clone github repo
-- create gitignore
-- create helloworld
-- push helloworld
-- introduce error 
-----
- - introduce solution
-- add repo to travis
-- add makefile
-- add travis yml
-- git push
+1. go to github account
+2. clone the repo
+3. make sure that you can run the hello world
+4. please test the hello world fail
+5. as you can see, there is a compilation error in the code.
+6. activate repo on travis
+7. create makefile with only helloworld2
+8. create yaml file
+9. push to repo
+10. see that it will fail 
+11. fix the error in the code helloworld2
+12. push again
+13. now you will see the build passing
+14. helloworld is not compiled and tested though
+15. add compilation of all files in makefile 
+16. push again
+17. if we now add more c files to this directory or any sub folder, they will be 
 
